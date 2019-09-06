@@ -1,7 +1,7 @@
 <html>
    <head><title>EKS</title></head>
    
-   <body bgcolor="#00aff0">
+   <body bgcolor="#DFF2800">
       <p style="text-align:center;"><font size="5" color="white"></font></p>
 <p style="text-align:center;"><font size="5" color="white">Hello All! Welcome to EKS Cluster</font></p>
 <p style="text-align:center;"><font size="5" color="white">You are accessing sample JSP Web page</font></p>
